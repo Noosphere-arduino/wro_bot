@@ -41,6 +41,6 @@ network={
     key_mgmt=WPA-PSK
 }
 ```
-
+ 
 
 https://roboticsbackend.com/enable-ssh-on-raspberry-pi-raspbian/#Enable_ssh_on_Raspberry_Pi_4_without_any_monitor
